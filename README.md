@@ -3,13 +3,13 @@
   <summary>
       collapsible
   </summary>
-
-  asdasd.<br>
+  
+  Use br for new lines.<br>
+  You can insert code snippets.
   ```bash
   git pull
   ```
-  <br>
-  adad.<br>
+  
   ```bash
   git pull
   ```

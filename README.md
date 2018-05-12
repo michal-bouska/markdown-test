@@ -1,6 +1,7 @@
+# Mark down examples
 <details>
   <summary>
-      Old way
+      collapsible
   </summary>
 
   asdasd.<br>
